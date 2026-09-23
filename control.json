@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "Prokom aktif."
+  "enabled": false,
+  "message": "Prokom sistemi kullanım dışıdır."
 }
